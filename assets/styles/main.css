@@ -1,0 +1,16 @@
+body{
+    background: slategray;
+}
+.inline-block{
+ display: inline-block;
+}
+
+.m-1{
+    margin: 1rem;
+}
+.border-dashed{
+    border: 1px dashed;
+}
+.p-1{
+    padding: 1rem;
+}
